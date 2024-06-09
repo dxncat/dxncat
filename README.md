@@ -2,6 +2,8 @@ Hola Mi nombre es Daniel! 👋
 =============================================================================================================================
 
 Analista y Desarrollador de software
+<br/>
+<br/>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG94YzJmNjlja2dwcmRzdGNjOGZ4Y3dudG83aHB0cjNuYnNyaTVqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="200">
 ------------------------------
 
