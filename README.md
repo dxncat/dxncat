@@ -9,7 +9,7 @@ Estudiante de Analis y Desarrollo de software
 
 * 🌍  Vivo en Bogota - Colombia
 * ✉️  Me puedes contactar en [enoc\_negrete@soy.sena.edu.co](mailto:enoc_negrete@soy.sena.edu.co)
-* 🧠  Actualmente estoy aprendiendo React
+* 🧠  Actualmente estoy solidificando mis bases en NextJs
 
 ### Skills
 
